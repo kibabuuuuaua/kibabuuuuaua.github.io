@@ -1,2 +1,4 @@
-http://example.com/2024/04/17/hello-world/
+http://example.com/2024/04/17/page/
+http://example.com/2024/04/17/draft/
+http://example.com/2024/04/17/post/
 http://example.com/
